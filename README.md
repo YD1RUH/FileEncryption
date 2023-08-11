@@ -8,4 +8,7 @@ simple java app for encryption file powered by Java and OpenSSL
 ## How To Run
 - open CMD or terminal, then type ```java -jar FileEncryption```
 
+## Notice 
+If got error while running, please update java SE 17 [link](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) 
+
 ## enjoy
